@@ -4,7 +4,7 @@
   and commit this file as README.md at the repo root.
 -->
 
-# Hi, I'm Sanjalee 👋
+# Hi, I'm Sanjalee
 
 **Computer Science and IT & Management undergraduate, working towards business analysis and quality assurance.**
 
@@ -16,7 +16,7 @@ Off-screen I play hockey for my university, and previously for the Sri Lanka Sch
 
 ---
 
-## 🔧 What I work with
+## What I work with
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -46,7 +46,7 @@ Requirement analysis · data & process modelling · test design · stakeholder c
 
 ---
 
-## 📌 Selected projects
+## Selected projects
 
 | Project                           | What it does                                                                                                                                                                                                             | Built with                                              |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
@@ -59,7 +59,7 @@ Requirement analysis · data & process modelling · test design · stakeholder c
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 <!-- Cards rendered by github-readme-stats, a third-party service. Delete these two lines if you'd rather not use it. -->
 
@@ -68,7 +68,7 @@ Requirement analysis · data & process modelling · test design · stakeholder c
 
 ---
 
-## 📫 Reach me
+## Reach me
 
 - **Email** — [sanjaleedassanayake56@gmail.com](mailto:sanjaleedassanayake56@gmail.com)
 - **LinkedIn** — [linkedin.com/in/sanjalee-dassanayake](https://www.linkedin.com/in/sanjalee-dassanayake)
