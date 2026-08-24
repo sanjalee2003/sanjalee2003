@@ -72,6 +72,6 @@ Requirement analysis · data & process modelling · test design · stakeholder c
 
 - **Email** — [sanjaleedassanayake56@gmail.com](mailto:sanjaleedassanayake56@gmail.com)
 - **LinkedIn** — [linkedin.com/in/sanjalee-dassanayake](https://www.linkedin.com/in/sanjalee-dassanayake)
-- **Portfolio** — [sanjalee2003.github.io](https://sanjalee2003.github.io)
+- **Portfolio** — [sanjaleedassanayake.vercel.app](https://sanjaleedassanayake.vercel.app/)
 
 Open to internships and graduate roles in business analysis and quality assurance.
