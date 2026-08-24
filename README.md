@@ -48,22 +48,23 @@ Requirement analysis · data & process modelling · test design · stakeholder c
 
 ## 📌 Selected projects
 
-| Project | What it does | Built with |
-| --- | --- | --- |
-| **InterLink** | Multi-tenant recruitment platform with AI-powered CV shortlisting, interview management, RBAC, and an AI chat assistant. I built the auth layer, Gmail SMTP integration, the interview workflow, and automation testing. | React.js · Spring Boot · PostgreSQL · Supabase · OpenAI |
-| **RaceTrack Circuit** | IoT-controlled RC car racing system — sensors, motors, LEDs and buzzers driving automated race control, with a live web interface for lap timing, collision alerts and performance tracking. | IoT · Embedded Systems · Web |
-| **Blog Application** | Full-stack blogging platform with user authentication, authorization and full CRUD over a MySQL database. | PHP · MySQL · JavaScript |
-| **Property Listing** | Responsive property browser with reusable React components for cards, search and filtering. | React.js · HTML5 · CSS3 |
-| **Plane Management System** | Seat reservation and flight management built on object-oriented design, with file-based persistence, input validation and exception handling. | Java |
-| **Student Sorting & Performance** | Sorts and groups students by test performance and visualises the outcome as histograms. | Python |
+| Project                           | What it does                                                                                                                                                                                                             | Built with                                              |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
+| **InterLink**                     | Multi-tenant recruitment platform with AI-powered CV shortlisting, interview management, RBAC, and an AI chat assistant. I built the auth layer, Gmail SMTP integration, the interview workflow, and automation testing. | React.js · Spring Boot · PostgreSQL · Supabase · OpenAI |
+| **RaceTrack Circuit**             | IoT-controlled RC car racing system — sensors, motors, LEDs and buzzers driving automated race control, with a live web interface for lap timing, collision alerts and performance tracking.                             | IoT · Embedded Systems · Web                            |
+| **Blog Application**              | Full-stack blogging platform with user authentication, authorization and full CRUD over a MySQL database.                                                                                                                | PHP · MySQL · JavaScript                                |
+| **Property Listing**              | Responsive property browser with reusable React components for cards, search and filtering.                                                                                                                              | React.js · HTML5 · CSS3                                 |
+| **Plane Management System**       | Seat reservation and flight management built on object-oriented design, with file-based persistence, input validation and exception handling.                                                                            | Java                                                    |
+| **Student Sorting & Performance** | Sorts and groups students by test performance and visualises the outcome as histograms.                                                                                                                                  | Python                                                  |
 
 ---
 
 ## 📊 GitHub
 
 <!-- Cards rendered by github-readme-stats, a third-party service. Delete these two lines if you'd rather not use it. -->
-![Sanjalee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjalee2003&show_icons=true&hide_border=true&theme=graywhite)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjalee2003&layout=compact&hide_border=true&theme=graywhite)
+
+![Sanjalee's GitHub stats](https://github-stats-extended.vercel.app/api?username=Sanjalee2003&show_icons=true&hide_border=true&theme=graywhite)
+![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Sanjalee2003&layout=compact&hide_border=true&theme=graywhite)
 
 ---
 
